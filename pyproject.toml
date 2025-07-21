@@ -1,0 +1,10 @@
+[project]
+name = "nuextract-2-0-receipts-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gradio>=5.38.0",
+    "modal>=1.1.0",
+]
